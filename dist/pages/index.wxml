@@ -67,6 +67,8 @@
     <text class="count"> {{$counter1$asyncNum}} </text>
   </view>
 
+
+        
       </view>
 
       <text class="testcounter">计数组件2: </text>
